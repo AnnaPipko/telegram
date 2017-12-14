@@ -1,0 +1,10 @@
+{
+    "allow_change": [
+        "telegram/*",
+        "test/*",
+        "CMakeLists.txt"
+    ],
+    "tests": "test_telegram",
+    "solutions": "private",
+    "review": true
+}
